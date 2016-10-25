@@ -1,0 +1,9 @@
+F:\PTUD\frm\frm\bin\Debug\frm.exe.config
+F:\PTUD\frm\frm\obj\Debug\frm.csprojResolveAssemblyReference.cache
+F:\PTUD\frm\frm\obj\Debug\frm.Form1.resources
+F:\PTUD\frm\frm\obj\Debug\frm.Properties.Resources.resources
+F:\PTUD\frm\frm\obj\Debug\frm.csproj.GenerateResource.Cache
+F:\PTUD\frm\frm\bin\Debug\frm.exe
+F:\PTUD\frm\frm\bin\Debug\frm.pdb
+F:\PTUD\frm\frm\obj\Debug\frm.exe
+F:\PTUD\frm\frm\obj\Debug\frm.pdb
