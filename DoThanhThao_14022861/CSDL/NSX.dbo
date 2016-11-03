@@ -1,0 +1,4 @@
+﻿/****** Script for SelectTopNRows command from SSMS  ******/
+SELECT TOP 1000 [ma_nsx]
+      ,[ten_nsx]
+  FROM [Quanlycungcapinbuuthiep].[dbo].[NSX]
